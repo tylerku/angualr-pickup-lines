@@ -1,2 +1,2 @@
-# angualr-pickup-lines
+# angular-pickup-lines
 Angular Project For Class
